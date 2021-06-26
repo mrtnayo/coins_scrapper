@@ -1,0 +1,32 @@
+{
+    "ethereum": {
+        "data": {
+            "ethereum_price": "$1,825.66",
+            "price_change24h": "$-157.037.92%",
+            "24h_low_24h_high": "$1,794.40 /$1,982.22",
+            "trading_volume24h": "$22,384,155,221.2411.41%",
+            "volume_market_cap": "0.1053",
+            "market_dominance": "16.45%",
+            "market_rank": "#2",
+            "circulating_supply": "116,442,503 ETH",
+            "total_supply": "116,442,503 ETH",
+            "max_supply": "No Data",
+            "updated_at": "2021-06-25"
+        }
+    },
+    "bitcoin": {
+        "data": {
+            "bitcoin_price": "$32,039.62",
+            "price_change24h": "$-2,694.537.76%",
+            "24h_low_24h_high": "$31,350.88 /$34,829.97",
+            "trading_volume24h": "$40,615,504,435.8921.05%",
+            "volume_market_cap": "0.06763",
+            "market_dominance": "46.32%",
+            "market_rank": "#1",
+            "circulating_supply": "18,742,862 BTC",
+            "total_supply": "18,742,862 BTC",
+            "max_supply": "21,000,000 BTC",
+            "updated_at": "2021-06-25"
+        }
+    }
+}
